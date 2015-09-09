@@ -31,6 +31,7 @@ email@1.0.6
 facebook@1.2.1
 fastclick@1.0.3
 fortawesome:fontawesome@4.4.0
+fourseven:scss@1.0.0
 francocatena:compass@0.5.1
 froala:editor@1.2.8
 gadicohen:headers@0.0.30
@@ -128,6 +129,8 @@ sha@1.0.3
 spacebars@1.0.6
 spacebars-compiler@1.0.6
 srp@1.0.3
+standard-app-packages@1.0.5
+superstringsoft:observatory@0.4.8
 templating@1.1.1
 tmeasday:paginated-subscription@0.2.4
 tmeasday:publish-counts@0.7.1
