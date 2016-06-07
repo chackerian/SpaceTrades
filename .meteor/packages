@@ -58,7 +58,6 @@ froala:editor
 reactive-var
 adrianliaw:youtube-iframe-api
 jeremy:selectize
-standard-minifiers
 meteor-base
 mobile-experience
 mongo
@@ -84,3 +83,5 @@ dandv:jquery-rateit
 poetic:jquery.appear
 fermuch:imgix
 meteoric:ionic
+standard-minifier-css
+standard-minifier-js
