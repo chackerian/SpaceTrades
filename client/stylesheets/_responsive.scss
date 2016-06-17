@@ -98,6 +98,11 @@
     .managerOfferView {
         margin-top: 10px !important;
     }
+
+     .helpnav ul li {
+    display: block;
+    padding: 10px;
+   }
 }
 
 
@@ -334,6 +339,11 @@
         width: 93% !important;
         margin: 10px auto !important;
     }
+
+    .headerPostOptions {
+    padding-right: 25% !important;
+    border-left: none;
+   }
 
     .searchResultsCards {
         float: none !important;
@@ -601,6 +611,8 @@
     .profileSettingsLi ul li h4 {
         margin-right: 20px;
     }
+
+
 }
 
 @media (max-width: 606px) {
@@ -791,6 +803,21 @@
         margin-left: 5px !important;
     }
 
+    .helpnav ul li {
+    display: block;
+    padding: 50%;
+   }
+
+   .headerPostOptions li a i {
+    font-size: 1.5em;
+    padding: 10px;
+   }
+
+   .headerPostOptions {
+    padding-right: 25% !important;
+    border-left: none;
+   }
+
     .profileUserFeedbackViewCriteriaTwo li[class="profileUserFeedbackViewStars"] {
         margin-left: 16px !important;
     }
@@ -846,6 +873,7 @@
         width: 170px;
     } 
 
+
     .profileSettingsPhoto li input {
         font-size: 0.9rem !important;
         width: 175px !important;
@@ -893,13 +921,14 @@
         display: none !important;
     }
 
+    .helpnav ul li {
+    display: block;
+    padding: 10px;
+   }
+
     .profileUserMore li a i {
         font-size: 2.5rem !important;
     }
-
-}
-
-@media (max-width: 480px) {
 
 }
 
@@ -924,6 +953,11 @@
         font-size: 12px !important;
     }
 
+    .helpnav ul li {
+    display: block;
+    padding: 10px;
+   }
+
     .profileUserRating ul li span {
         margin-left: 10px !important;
     }
@@ -947,6 +981,11 @@
         width: 155px;
     }
 
+    .helpnav ul li {
+    display: block;
+    padding: 10px;
+   }
+
     .homeCardItem li a h4 {
         padding-top: 0.2em !important;
         padding-bottom: 0.2em !important;
@@ -958,10 +997,6 @@
     
 }
 
-@media (max-width: 430px) {
-
-}
-
 @media (max-width: 425px) {
     .profileSettingsLi ul li h4 {
         margin-right: 10px;
@@ -970,6 +1005,11 @@
     .profileSettingsPhoto li input {
         width: 92px !important;
     }
+
+    .helpnav ul li {
+    display: block;
+    padding: 10px;
+   }
 
     .profileSettingsPhoto img {
         width: 70px !important;
@@ -1003,6 +1043,11 @@
         font-size: 1.6rem !important;
     }
 
+    .helpnav ul li {
+    display: block;
+    padding: 10px;
+   }
+
     .profileUser {
         margin-bottom: 4rem !important;
     }
@@ -1017,6 +1062,11 @@
         margin-left: 5px !important;
     }
 
+    .helpnav ul li {
+    display: block;
+    padding: 10px;
+   }
+
     .headerDropDown {
         display: none;
     }
@@ -1027,6 +1077,11 @@
         width: 90%;
         margin: auto;
     }
+
+   .helpnav ul li {
+    display: block;
+    padding: 10px;
+   }
 
     .helpAboutUl li:first-child > p {
         text-align: left !important;
